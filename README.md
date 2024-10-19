@@ -10,7 +10,7 @@ welcome to my profile! i'm just self-taught coder!
 i don't really have programming languages which hard to learn, but there are some which i know pretty ok:
 
 - 🔋 python (libraries that i know good: disnake, nextcord and blablabla),
-- 🪫 java/kotlin (started learning it recently, it's.. okayyy?),
+- 🪫 java/kotlin (started learning it recently),
 - ❓ C# (planning learn it!)
 
 ## 📌 contacts
