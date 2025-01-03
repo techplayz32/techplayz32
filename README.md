@@ -1,22 +1,8 @@
-## 👋 howdy!
-welcome to my profile! i'm just self-taught coder!
-
-***littttttle*** about myself:
-- autistic zzzzzzzzz,
-- dumbie school man,
-- speaking english pretty good for chatting :D
-
-## 🪴 skills
-i don't really have programming languages which hard to learn, but there are some which i know pretty ok:
-
-- 🔋 python (libraries that i know good: disnake, nextcord and blablabla),
-- 🪫 java/kotlin (started learning it recently),
-- ❓ C# (planning learn it!)
-
-## 📌 contacts
-email: `bvv8qjdce@mozmail.com` (everything okay with the email, it just redirects mails from it to the main one)
-
-so, that is all! bye bye :D
+# 👋 Hi am tech
+I'm a self taught programmer 
+I doing some random dumb projects that will not become massive or big in future like: making Wii U emulator in C# without any basic knowledge about hardware or big knowledge about C#
+I would be happy if you star any of mine repos which you find useful or interesting
+Also i will appericate any contributions like: pull requests or issues 👍👍
 
 <!---
 techplayz32/techplayz32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
