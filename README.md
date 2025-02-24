@@ -1,8 +1,16 @@
-# Hi am tech
-I'm a self taught programmer. I doing some random dumb projects that will not become massive or big in future
+# Hi there, I'm Tech! 👋
 
-I would be happy if you star any of mine repos which you find useful or interesting
-Also i will appericate any contributions like: pull requests or issues 👍👍
+I'm a small self-taught programmer and tech enthusiast who also learning the malware reverse engineering & analysis.
+
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,go,lua,docker,java,powershell,vscode,pycharm,windows,arch)](https://skillicons.dev)
+
+## Projects
+- **[YAYARAS](https://github.com/techplayz32/yayaras):** Scanner for Simple Indicators and YARA rules, makes job gets easier.
+- **[PlutoHook](https://github.com/techplayz32/plutohook):** A Python-wrote program for using webhooks through Discord using CMD.
+
+## Contact
+I don't really want to put my email, so just contact me through repositories or `techplayz32/techplayz32`'s pull requests.
 
 <!---
 techplayz32/techplayz32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
