@@ -2,8 +2,17 @@
 
 I'm a small self-taught programmer and tech enthusiast who also learning the malware reverse engineering & analysis.
 
-# Skills
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,go,lua,docker,java,powershell,vscode,pycharm,windows,arch)](https://skillicons.dev)
+## Stats
+![techplayz32's Stats](https://github-readme-stats.vercel.app/api?username=techplayz32&theme=dark&show_icons=true&hide_border=false&count_private=false&layout=compact)
+![techplayz32's Streak](https://github-readme-streak-stats.herokuapp.com/?user=techplayz32&theme=dark&hide_border=false&layout=compact)
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=ts,go,docker,mongodb,git,react,nextjs,py,supabase,bun,java,vscodium,pycharm,windows)](https://skillicons.dev)
+
+# Currently Learning
+[![Learning Skills](https://skillicons.dev/icons?i=astro,cpp,cs,rails,ruby,rust,nix)](https://skillicons.dev)
+
+![techplayz32's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techplayz32&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ## Projects
 - **[YAYARAS](https://github.com/techplayz32/yayaras):** Scanner for Simple Indicators and YARA rules, makes job gets easier.
@@ -11,6 +20,11 @@ I'm a small self-taught programmer and tech enthusiast who also learning the mal
 
 ## Contact
 I don't really want to put my email, so just contact me through repositories or `techplayz32/techplayz32`'s pull requests.
+
+- My website: https://techplayz.pages.dev
+- GitLab: https://gitlab.com/techplayz32
+- Github: https://github.com/techplayz32
+- Codeberg: https://codeberg.org/techplayz32
 
 <!---
 techplayz32/techplayz32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
