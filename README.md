@@ -1,4 +1,5 @@
 # Hi there, I'm Tech! 👋
+![Views](https://komarev.com/ghpvc/?username=techplayz32)
 
 I'm a small self-taught programmer and tech enthusiast who also learning the malware reverse engineering & analysis.
 
@@ -17,10 +18,12 @@ I'm a small self-taught programmer and tech enthusiast who also learning the mal
 ## Projects
 - **[YAYARAS](https://github.com/techplayz32/yayaras):** Scanner for Simple Indicators and YARA rules, makes job gets easier.
 - **[PlutoHook](https://github.com/techplayz32/plutohook):** A Python-wrote program for using webhooks through Discord using CMD.
+- **[LibreBucket](https://github.com/standard-group/librebucket):** A lightweight, self-hosted Git server with a clean web interface, built with Go.
 
 ## Contact
 I don't really want to put my email, so just contact me through repositories or `techplayz32/techplayz32`'s pull requests.
-
+Contact me through Discord (techplayz) or pages down below:
+ 
 - My website: https://techplayz.pages.dev
 - GitLab: https://gitlab.com/techplayz32
 - Github: https://github.com/techplayz32
