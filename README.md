@@ -1,5 +1,6 @@
 # Hi there, I'm Tech! 👋
 ![Views](https://komarev.com/ghpvc/?username=techplayz32)
+[![wakatime](https://wakatime.com/badge/user/d0f8decd-1716-4871-83f4-cd7649cf3072.svg)](https://wakatime.com/@d0f8decd-1716-4871-83f4-cd7649cf3072)
 
 I'm a small self-taught programmer and tech enthusiast who also learning the malware reverse engineering & analysis.
 
