@@ -7,6 +7,7 @@ I'm a small self-taught programmer and tech enthusiast who also learning the mal
 ## Stats
 ![techplayz32's Stats](https://github-readme-stats.vercel.app/api?username=techplayz32&theme=dark&show_icons=true&hide_border=false&count_private=false&layout=compact)
 ![techplayz32's Streak](https://github-readme-streak-stats.herokuapp.com/?user=techplayz32&theme=dark&hide_border=false&layout=compact)
+![techplayz32's Trophies](https://github-trophies.vercel.app/?username=techplayz32&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=ts,go,docker,mongodb,git,react,nextjs,py,supabase,bun,java,vscodium,pycharm,windows)](https://skillicons.dev)
