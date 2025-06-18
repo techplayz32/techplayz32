@@ -26,7 +26,7 @@ jobs:
 
           # Options
           user: techplayz32
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
           config_twemoji: yes
