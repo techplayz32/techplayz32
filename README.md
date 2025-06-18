@@ -4,23 +4,13 @@
 
 I'm a small self-taught programmer and tech enthusiast who also learning the malware reverse engineering & analysis.
 
-## Stats
-![techplayz32's Stats](https://github-readme-stats.vercel.app/api?username=techplayz32&theme=dark&show_icons=true&hide_border=false&count_private=false&layout=compact)
-![techplayz32's Streak](https://github-readme-streak-stats.herokuapp.com/?user=techplayz32&theme=dark&hide_border=false&layout=compact)
-![techplayz32's Trophies](https://github-trophies.vercel.app/?username=techplayz32&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=ts,go,docker,mongodb,git,react,nextjs,py,supabase,bun,java,vscodium,pycharm,windows)](https://skillicons.dev)
-
-# Currently Learning
-[![Learning Skills](https://skillicons.dev/icons?i=astro,cpp,cs,rails,ruby,rust,nix)](https://skillicons.dev)
-
-![techplayz32's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techplayz32&theme=dark&show_icons=true&hide_border=false&layout=compact)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ## Projects
-- **[YAYARAS](https://github.com/techplayz32/yayaras):** Scanner for Simple Indicators and YARA rules, makes job gets easier.
-- **[PlutoHook](https://github.com/techplayz32/plutohook):** A Python-wrote program for using webhooks through Discord using CMD.
 - **[LibreBucket](https://github.com/standard-group/librebucket):** A lightweight, self-hosted Git server with a clean web interface, built with Go.
+- **[Standard Robot](https://github.com/standard-group/standard-bot):** A helper for Standard's repositories and it's maintainers by Standard Group.
 
 ## Contact
 I don't really want to put my email, so just contact me through repositories or `techplayz32/techplayz32`'s pull requests.
