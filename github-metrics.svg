@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1500" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1417" class="">
     <defs>
         <style/>
     </defs>
@@ -1567,6 +1567,26 @@ and pokemons 🕹️</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">standard-group/librebucket-translations</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5d32b69</div>
+                                        <div class="message">Update footer version strings in multiple language YAML files to remove app version placeholder.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">standard-group/librebucket</span>
                                     </div>
                                 </div>
@@ -1711,105 +1731,12 @@ Co-authored-by: Copilot Autofix powered by AI &lt;62310815+github-advanced-secur
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">standard-group/librebucket</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e308621</div>
-                                        <div class="message">merge: fixing and finally conflict is solved i hope</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6957225</div>
-                                        <div class="message">docs: clean up comments in server.go for clarity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#198dbd0</div>
-                                        <div class="message">chore: add submodule for translations and initial build configuration
-
-- Added a new submodule for translations located at cmd/web/i18n.
-- Created build.config.ini with GPG key and initial build version.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc03fc1</div>
-                                        <div class="message">chore: sync dev → main, apply refactors from dev to main (#32)
-
-* refactor: switch from svelte to the go HTML templates, for easier making of website
-
-* refactor: moving files to new dirs to follow golang standard of project layout, hope everything work
-
-* refactor: update cmd/web/templates/page/login.tmpl
-
-Co-authored-by: coderabbitai[bot] &lt;136622811+coderabbitai[bot]@users.noreply.github.com&gt;
-
-* refactor: update cmd/web/templates/page/login.tmpl
-
-Co-authored-by: coderabbitai[bot] &lt;136622811+coderabbitai[bot]@users.noreply.github.com&gt;
-
-* refactor: update cmd/web/templates/page/home.tmpl
-
-Co-authored-by: coderabbitai[bot] &lt;136622811+coderabbitai[bot]@users.noreply.github.com&gt;
-
-* fix: some security and grammar issues
-
-* refactor: update cmd/web/templates/page/home.tmpl
-
-Co-authored-by: coderabbitai[bot] &lt;136622811+coderabbitai[bot]@users.noreply.github.com&gt;
-
-* refactor: update cmd/web/templates/page/home.tmpl
-
-Co-authored-by: coderabbitai[bot] &lt;136622811+coderabbitai[bot]@users.noreply.github.com&gt;
-
-* refactor: update cmd/web/templates/page/home.tmpl
-
-Co-authored-by: coderabbitai[bot] &lt;136622811+coderabbitai[bot]@users.noreply.github.com&gt;
-
-* refactor: add docstrings to `dev` (#33)
-
-Docstrings generation was requested by @techplayz32.
-
-* https://github.com/standard-group/librebucket/pull/32#issuecomment-2994168311
-
-The following files were modified:
-
-* `cmd/web/server.go`
-* `cmd/web/templates.go`
-* `main.go`
-
-Co-authored-by: coderabbitai[bot] &lt;136622811+coderabbitai[bot]@users.noreply.github.com&gt;
-
----------
-
-Co-authored-by: coderabbitai[bot] &lt;136622811+coderabbitai[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da2b78d</div>
-                                        <div class="message">api: commits API implementation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3bc8c7</div>
-                                        <div class="message">Merge pull request #29 from standard-group/dev
-
-refactor: added some things to the standard.yaml, home.svelte and build.bat</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2025, 15:24:36 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2025, 16:29:24 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
