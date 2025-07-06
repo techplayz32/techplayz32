@@ -365,7 +365,7 @@ and pokemons 🕹️</div>
                                     </svg>
                                     <div class="name">
                                         <span>standard-group/standard-bot</span>
-                                        <span>created 18 days ago</span>
+                                        <span>created 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A helper for Standard's repositories and it's maintainers by Standard Group</div>
@@ -465,7 +465,7 @@ and pokemons 🕹️</div>
                                     </svg>
                                     <div class="name">
                                         <span>techplayz32/librei18n</span>
-                                        <span>created 12 days ago</span>
+                                        <span>created 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple, small Go library for easier translations and formatting i18n files</div>
@@ -1616,7 +1616,7 @@ and pokemons 🕹️</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2025, 14:11:02 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jul 2025, 15:21:00 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
