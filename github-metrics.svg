@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1417" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1467" class="">
     <defs>
         <style/>
     </defs>
@@ -1581,15 +1581,47 @@ and pokemons 🕹️</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">standard-group/mesa-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b8f2fa9</div>
-                                        <div class="message">fix: ubuntu was failing because of tauri build script</div>
+                                        <div class="sha">#2d87e71</div>
+                                        <div class="message">chore: add pkg-config and libglib2.0-dev to Linux prerequisites in desktop CI workflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd4fa4e</div>
+                                        <div class="message">chore: add Linux prerequisites installation step in desktop CI workflow</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">standard-group/mesa-client</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4fd9b74</div>
+                                        <div class="message">chore: clean up FUNDING.yml by removing unused funding model placeholders</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a3e01d</div>
+                                        <div class="message">fix: update app identifier in tauri configuration with removing .app for macos</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad2d16f</div>
+                                        <div class="message">chore: remove unused .test file and update Windows build script execution in desktop CI workflow</div>
                                     </div>
                                 </div>
                             </section>
@@ -1608,8 +1640,8 @@ and pokemons 🕹️</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#34a92a7</div>
-                                        <div class="message">feat: add build scripts for CI with support for multiple build types</div>
+                                        <div class="sha">#f4b29ef</div>
+                                        <div class="message">fix: update debug step condition to exclude Windows in desktop CI workflow</div>
                                     </div>
                                 </div>
                             </section>
@@ -1628,8 +1660,8 @@ and pokemons 🕹️</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#18012ca</div>
-                                        <div class="message">chore: update README with build badges and remove Windows desktop workflow, as well replace it with matrix workflow</div>
+                                        <div class="sha">#e55c403</div>
+                                        <div class="message">fix: add conditional check for Windows in debug step of desktop CI workflow</div>
                                     </div>
                                 </div>
                             </section>
@@ -1648,28 +1680,8 @@ and pokemons 🕹️</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#abca9c2</div>
-                                        <div class="message">feat: add nightly desktop build workflow for Mesa across multiple OS</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">standard-group/mesa-client</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#446eead</div>
-                                        <div class="message">chore: remove obsolete signing.gradle file as signing configuration is now handled in by our workflow file</div>
+                                        <div class="sha">#4e16333</div>
+                                        <div class="message">feat: forgot to add windows to the workflow build script</div>
                                     </div>
                                 </div>
                             </section>
@@ -1679,7 +1691,7 @@ and pokemons 🕹️</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jul 2025, 09:19:02 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2025, 10:15:48 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
