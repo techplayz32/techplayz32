@@ -1,6 +1,5 @@
 # Hi there, I'm Tech! 👋
 ![Views](https://komarev.com/ghpvc/?username=techplayz32)
-[![wakatime](https://wakatime.com/badge/user/d0f8decd-1716-4871-83f4-cd7649cf3072.svg)](https://wakatime.com/@d0f8decd-1716-4871-83f4-cd7649cf3072)
 
 I'm a small self-taught programmer and tech enthusiast who also learning the malware reverse engineering & analysis.
 
@@ -11,15 +10,16 @@ I'm a small self-taught programmer and tech enthusiast who also learning the mal
 ## Projects
 - **[LibreBucket](https://github.com/standard-group/librebucket):** A lightweight, self-hosted Git server with a clean web interface, built with Go.
 - **[Standard Robot](https://github.com/standard-group/standard-bot):** A helper for Standard's repositories and it's maintainers by Standard Group.
+- **[Project Mesa](https://github.com/standard-group/mesa):** Secure messenger for anyone who needs a safe, easy and robust way to communicate.
+  -  **[Project Mesa Client](https://github.com/standard-group/mesa-client):** Client for Project Mesa.
 
 ## Contact
 I don't really want to put my email, so just contact me through repositories or `techplayz32/techplayz32`'s pull requests.
-Contact me through Discord (techplayz) or pages down below:
+Contact me through social down below:
  
 - My website: https://techplayz.pages.dev
-- GitLab: https://gitlab.com/techplayz32
-- Github: https://github.com/techplayz32
-- Codeberg: https://codeberg.org/techplayz32
+- Discord: techplayz
+- Matrix: @techplayz32:matrix.org
 
 <!---
 
