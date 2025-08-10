@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>standard-group/mesa-client</span>
-                                        <span>created 27 days ago</span>
+                                        <span>created 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Client-side code for the Project Mesa desktop application. Built with Tauri and Vue.</div>
@@ -1644,7 +1644,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2025, 16:24:18 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Aug 2025, 17:11:03 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
