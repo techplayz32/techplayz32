@@ -1564,7 +1564,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">firecracker-microvm/firecracker</span>
+                                        <span class="repo">microsoft/TypeScript</span>
                                     </div>
                                 </div>
                             </section>
@@ -1577,7 +1577,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">firecracker-microvm/firecracker-go-sdk</span>
+                                        <span class="repo">pion/webrtc</span>
                                     </div>
                                 </div>
                             </section>
@@ -1590,7 +1590,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">btbd/smap</span>
+                                        <span class="repo">pocketbase/pocketbase</span>
                                     </div>
                                 </div>
                             </section>
@@ -1603,7 +1603,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">NuclearPlayer/nuclear-xrd</span>
+                                        <span class="repo">jpd002/Play-Compatibility</span>
                                     </div>
                                 </div>
                             </section>
@@ -1616,7 +1616,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">nukeop/nuclear</span>
+                                        <span class="repo">libretro/retroarch-joypad-autoconfig</span>
                                     </div>
                                 </div>
                             </section>
@@ -1626,7 +1626,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2025, 06:28:33 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2025, 07:13:24 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
