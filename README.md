@@ -9,7 +9,7 @@ Hi! I am Andrew. I am upcoming software engineer, which still is in school. Here
 - **Python** (4+ years)</br>
   _knowledge on discord.py, Kivy, etc. worked with pytorch & numpy a little bit, pygame in the past_
 - **JavaScript / TypeScript** (3+ years)</br>
-  _knowledge on discord.js, Octokit Astro, Vue, React, Next.js, Tailwind, etc_
+  _knowledge on discord.js, Octokit, Astro, Vue, React, Next.js, Tailwind, etc_
 - **Java** (1-2 years)</br>
   _knowledge on basics of Java, Gradle, learning Fabric_
 - **Kotlin** (over 1 month)</br>
