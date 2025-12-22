@@ -84,7 +84,7 @@ a person who gives a speech at a public event</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            814 Commits
+                            815 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -142,7 +142,7 @@ a person who gives a speech at a public event</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 637 repositories
+                            Starred 638 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -234,14 +234,14 @@ a person who gives a speech at a public event</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="152.858532707054" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="152.858532707054" y="0" width="86.33992739902293" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="239.19846010607694" y="0" width="58.20478217963336" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="297.4032422857103" y="0" width="54.98383739054932" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="352.3870796762596" y="0" width="54.808995268034295" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="407.1960749442939" y="0" width="29.641353962890506" height="8" fill="#220000"/>
-                    <rect mask="url(#languages-bar)" x="436.83742890718446" y="0" width="13.223839064347063" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="450.0612679715315" y="0" width="9.93873202846851" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="144.52822599257505" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="144.52822599257505" y="0" width="81.63467435097691" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="226.16290034355194" y="0" width="55.03280558651113" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="281.19570593006307" y="0" width="51.98739210423933" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="333.1830980343024" y="0" width="51.822078324574186" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="385.0051763588766" y="0" width="34.465648099913615" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="419.4708244587902" y="0" width="28.02599389387475" height="8" fill="#220000"/>
+                    <rect mask="url(#languages-bar)" x="447.49681835266495" y="0" width="12.503181647335" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -276,6 +276,12 @@ a person who gives a speech at a public event</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Rust
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#220000" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         YARA
@@ -285,12 +291,6 @@ a person who gives a speech at a public event</div>
                             <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Rust
                     </div>
                 </div>
             </section>
@@ -1576,7 +1576,7 @@ a person who gives a speech at a public event</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Dec 2025, 10:18:07 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Dec 2025, 11:19:47 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
