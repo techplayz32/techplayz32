@@ -1,0 +1,10 @@
+steps:
+  test-arm:
+    image: alpine
+    commands:
+      - echo "hi it is working"
+      - echo "Checking system architecture..."
+      - uname -m
+
+when:
+  platform: linux/arm64
