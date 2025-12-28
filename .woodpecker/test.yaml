@@ -1,3 +1,7 @@
+platform:
+  os: linux
+  arch: arm64
+
 steps:
   test-arm:
     image: alpine
@@ -7,4 +11,5 @@ steps:
       - uname -m
 
 when:
-  platform: linux/arm64
+  event:
+    - manual
