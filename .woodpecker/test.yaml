@@ -1,15 +1,9 @@
-platform:
-  os: linux
+labels:
   arch: arm64
 
 steps:
   test-arm:
     image: alpine
     commands:
-      - echo "hi it is working"
-      - echo "Checking system architecture..."
+      - echo "This MUST run on the aarch64 agent"
       - uname -m
-
-when:
-  event:
-    - manual
