@@ -2,9 +2,6 @@
 
 Hi! I am Andrew. I am self-taught coder.
 
-Contact me:
-- Discord: techplayz
-
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
